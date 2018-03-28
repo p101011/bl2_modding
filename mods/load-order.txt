@@ -1,0 +1,50 @@
+Gear Overhaul 1.25.txt
+ChaoticTeams v2.0.txt
+GemstoneFixes.txt
+Better Enemy Shields [FilterTool]
+Better Quests.txt
+BL1 VendorsV3
+BL1Colors.txt
+BurstFireRockets.txt
+ButtStallion.txt
+CarAnywhere.txt
+CatapultFirst.txt
+CobraPlus.txt
+Continous drain.txt
+CorrectEtechSkins.txt
+Gemstone Loot Pools.txt
+GemstoneEtechs.txt
+Golden Chest is Free (FilterTool)
+Goldfinger.txt
+JakobsOrder.txt
+L00T L0AD3R
+Live Dismember
+MedicalBlasterFix.txt
+More Animals On Pandora
+More Chests On Pandora.txt
+More Loaders On Pandora 2.0
+NoDamageNumbers.txt
+offhand_amp_fix.txt
+RarityMatchingItemGlowsV2.txt
+ScopelessSnipers.txt
+SeraphSkinsDLC1Style.txt
+SilverFist.txt
+Simulate_More_Vault_Hunters.txt
+SingularityUnforeseen.txt
+Smasher.txt
+VaultHunter
+ZoomedOutSights.txt
+Elephixer.txt
+PrefixReworkV2.txt
+Non-ElementalBuff.txt
+HyperionBarrelSlugShotgunsV4.txt
+ClassModsReduxV5.txt
+COMOverhaulPack.txt
+AtlasRebornV3.txt
+S&SForeverV8.txt
+ETechPistolsRemasteredV4.txt
+DoubleAnarchyV4.txt
+HeavyShotgunsV2.txt
+MashersV4.txt
+RevolversV9.txt
+SplittersV6.txt

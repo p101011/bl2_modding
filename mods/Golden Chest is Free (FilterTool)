@@ -1,0 +1,7 @@
+#<Golden Chest is Free>
+
+    #<hotfix><key>"SparkLevelPatchEntry-GoldenChest1"</key><value>",GD_Balance_Treasure.InteractiveObjects.InteractiveObj_TreasureChest_Golden:BehaviorProviderDefinition_1.Behavior_SetUsabilityCost_10,CostCurrencyType,,CURRENCY_Eridium"</value><on>
+
+    #<hotfix><key>"SparkLevelPatchEntry-GoldenChest2"</key><value>",GD_Balance_Treasure.InteractiveObjects.InteractiveObj_TreasureChest_Golden:BehaviorProviderDefinition_1.Behavior_SetUsabilityCost_10,CostAmount,,0"</value><on>
+
+#</Golden Chest is Free>

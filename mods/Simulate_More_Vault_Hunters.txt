@@ -1,0 +1,1 @@
+set Engine.GameInfo EffectiveNumPlayers 4
